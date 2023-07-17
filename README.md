@@ -7,7 +7,7 @@ I'm Mónica,recently graduated full stack developer. Welcome to my GitHub profil
 
 
 🌱 I'm currently deepening my knowledge of JavaScript, CSS3, HTML5, and the React framework/library,
-   as well as the backend Node.js 
+   as well as the backend Node.js
    
 
 📫 How to reach me:
