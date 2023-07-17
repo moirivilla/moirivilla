@@ -9,12 +9,10 @@ I'm Mónica,recently graduated full stack developer. Welcome to my GitHub profil
     💻moirivilla@gmail.com
     
     <a href="https://twitter.com/moirivilla">
-  <i class="fa-brands fa-twitter fa-2xs"></i>
-  </a>
+
   
   <a herf="https://www.linkedin.com/in/monica-irimia/">
-  <i class="fa-brands fa-linkedin fa-2xs" style="color: #165eda;"></i>
-  </a>a>
+ 
   
 😄 Pronouns: she/her
 
