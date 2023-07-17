@@ -12,7 +12,7 @@
    as well as the backend **Node.js**.
    
 
-📫 **How to reach me:**
+**📫 How to reach me:**
 
   [💻Send me an email](mailto:moirivilla@gmail.com)
     
