@@ -11,8 +11,7 @@ I'm Mónica,recently graduated full stack developer. Welcome to my GitHub profil
 
     💻moirivilla@gmail.com
     
-    [Twitter🔎](https://twitter.com/moirivilla/)
-
+   
   
    [LinkedIn🔎](https://www.linkedin.com/in/monica-irimia/)
  
