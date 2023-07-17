@@ -1,6 +1,6 @@
-#Hi there 👋
+# Hi there 👋
  
-##I'm Mónica,recently graduated full stack developer. Welcome to my GitHub profile.
+## I'm Mónica,recently graduated full stack developer. Welcome to my GitHub profile.
 
 
 🔭 I’m currently working on applying my acquired knowledge to various frontend and backend projects.
