@@ -12,11 +12,11 @@
 
 📫 How to reach me:
 
-  [Send me an email💻](mailto:moirivilla@gmail.com)
+  [💻Send me an email](mailto:moirivilla@gmail.com)
     
-  [Twitter📍]( https://twitter.com/moirivilla)
+  [📍Twitter]( https://twitter.com/moirivilla)
   
-  [LinkedIn🔎](https://www.linkedin.com/in/monica-irimia/)
+  [🔎LinkedIn](https://www.linkedin.com/in/monica-irimia/)
  
   
 😄 Pronouns: she/her
