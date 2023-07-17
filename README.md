@@ -8,7 +8,7 @@
 🔭 I’m currently working on applying my acquired knowledge to various frontend and backend projects.
 
 
-🌱 I'm currently deepening my knowledge of **JavaScript, CSS3, HTML5**, and the React framework/library,
+🌱 I'm currently deepening my knowledge of **JavaScript, CSS3, HTML5**, and the **React** framework/library,
    as well as the backend **Node.js**.
    
 
