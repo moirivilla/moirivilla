@@ -20,6 +20,8 @@
   ### [📍  Twitter]( https://twitter.com/moirivilla)
   
   ### [🔎LinkedIn](https://www.linkedin.com/in/monica-irimia/)
+
+  ### [📓 Porfolio](https://www.portfolio-monica.vercel.app/)
  
   
 ### 😄 Pronouns: she/her
