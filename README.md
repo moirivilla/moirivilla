@@ -17,8 +17,6 @@
 
   ### [💻Send me an email](mailto:moirivilla@gmail.com)
     
-  ### [📍  Twitter]( https://twitter.com/moirivilla)
-  
   ### [🔎LinkedIn](https://www.linkedin.com/in/monica-irimia/)
 
   ### [📓 Porfolio](https://portfolio-monica.vercel.app/)
@@ -27,5 +25,5 @@
 ### 😄 Pronouns: she/her
 
 
-### ⚡ Fun fact:  I'm absolutely fascinated by Egyptian culture and history!👁
+### ⚡ Fun fact:  I'm absolutely fascinated by Egyptian culture and history and ancient art in general!👁
 
