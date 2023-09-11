@@ -19,7 +19,7 @@
     
   ### [🔎LinkedIn](https://www.linkedin.com/in/monica-irimia/)
 
-  ### [📓 Porfolio](https://portfolio-monica.vercel.app/)
+  ### [📓 Portfolio](https://portfolio-monica.vercel.app/)
  
   
 ### 😄 Pronouns: she/her
